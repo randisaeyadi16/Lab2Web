@@ -33,19 +33,19 @@ Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mata k
 
 ![8](https://user-images.githubusercontent.com/59683573/113686607-a259a200-96f1-11eb-83b1-164d77200b16.png)
 
-9. [Menambahkan CSS Selector]
+9. [Membuat CSS Eksternal]
 
 ![9](https://user-images.githubusercontent.com/59683573/113686726-c5845180-96f1-11eb-8119-09b602f2970d.png)
 
-10. Hasil/Tampilan ketika dijalankan dibrowser, maka;
+10.Hasil/Tampilan ketika dijalankan dibrowser, maka;
 
 ![10](https://user-images.githubusercontent.com/59683573/113686877-f06ea580-96f1-11eb-9e73-efebf7912eeb.png)
 
-11. Tulis Disini
+11. [Menambahkan CSS Selector]
 
 ![11](https://user-images.githubusercontent.com/59683573/113686939-00868500-96f2-11eb-964b-4b080ff0ca36.png)
 
-12. Tulis Disini
+12.  Hasil/Tampilan ketika dijalankan dibrowser, maka;
 
 ![12](https://user-images.githubusercontent.com/59683573/113687121-362b6e00-96f2-11eb-86a5-6df00ac0be8d.png)
 
