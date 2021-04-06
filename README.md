@@ -5,39 +5,39 @@ Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mata k
 
 ![1](https://user-images.githubusercontent.com/59683573/113685444-77228300-96f0-11eb-84c4-22922495f12b.png)
 
-2. Berikut adalah tampilannya
+2. Hasil/Tampilan ketika dijalankan di browser
 
 ![2](https://user-images.githubusercontent.com/59683573/113685727-be107880-96f0-11eb-91ba-233245e3dff8.png)
 
-3. Tulis Disini
+3. [Mendeklarasikan CSS Internal] Ini adalah tampilan codingan jika ditambahkan deklarasi CSS internal pada bagian head dokumen dengan menambahkan tag dalam elemenn body, header, h1 dan hi
 
 ![3](https://user-images.githubusercontent.com/59683573/113685993-ffa12380-96f0-11eb-994a-413ba37c9e2e.png)
 
-4. Tulis Disini
+4. Hasil/Tampilan ketika dijalankan dibrowser, maka terlihat dibagian body font
 
 ![4](https://user-images.githubusercontent.com/59683573/113686042-0def3f80-96f1-11eb-9d0f-a1a0ad2876a5.png)
 
-5. Tulis Disini
+5. [Menambahkan Inline CSS] Ini adalah tampilan codingan jika ditambahkan deklarasi inline CSS pada tag p seperti berikut;
 
 ![5](https://user-images.githubusercontent.com/59683573/113686204-35460c80-96f1-11eb-94b8-d299e38506d9.png)
 
-6. Tulis Disini
+6. Hasil/Tampilan ketika dijalankan dibrowser, maka;
 
 ![6](https://user-images.githubusercontent.com/59683573/113686336-5a3a7f80-96f1-11eb-870a-5ef60a5259a0.png)
 
-7. Tulis Disini
+7. [Membuat CSS Eksternal]
 
 ![7](https://user-images.githubusercontent.com/59683573/113686536-8eae3b80-96f1-11eb-8e26-5dd48bdfd3be.png)
 
-8. Tulis Disini
+8. Hasil/Tampilan ketika dijalankan dibrowser, maka;
 
 ![8](https://user-images.githubusercontent.com/59683573/113686607-a259a200-96f1-11eb-83b1-164d77200b16.png)
 
-9. Tulis Disini
+9. [Menambahkan CSS Selector]
 
 ![9](https://user-images.githubusercontent.com/59683573/113686726-c5845180-96f1-11eb-8119-09b602f2970d.png)
 
-10. Tulis Disini
+10. Hasil/Tampilan ketika dijalankan dibrowser, maka;
 
 ![10](https://user-images.githubusercontent.com/59683573/113686877-f06ea580-96f1-11eb-9e73-efebf7912eeb.png)
 
