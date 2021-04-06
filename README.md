@@ -53,9 +53,11 @@ Pertanyaan dan Tugas
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 
 Jawaban:
+
 [1] Ini adalah hasil codingan jika ditambahkan
 
 ![13](https://user-images.githubusercontent.com/59683573/113704690-ad6afd00-9706-11eb-821a-2152f04b1e36.png)
+
 ![14](https://user-images.githubusercontent.com/59683573/113704720-b9ef5580-9706-11eb-8aa0-977ba3ba98aa.png)
 
 [2] Hasil/Tampilan ketika dijalankan di browser, maka
