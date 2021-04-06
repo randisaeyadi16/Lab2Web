@@ -49,22 +49,19 @@ Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mata k
 
 ![12](https://user-images.githubusercontent.com/59683573/113687121-362b6e00-96f2-11eb-86a5-6df00ac0be8d.png)
 
-13. Tulis Disini
-
-![13](https://user-images.githubusercontent.com/59683573/113687218-4ba09800-96f2-11eb-8a93-a6b93fc69efe.png)
-
-14. Tulis Disini
-
-![14](https://user-images.githubusercontent.com/59683573/113687277-5d823b00-96f2-11eb-9a8f-ba7a8744f52e.png)
-
-15. Tulis Disini
-
-![15](https://user-images.githubusercontent.com/59683573/113687352-6ffc7480-96f2-11eb-944a-682829cff293.png)
-
 Pertanyaan dan Tugas
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 
 Jawaban:
+[1] Ini adalah hasil codingan jika ditambahkan
+
+![13](https://user-images.githubusercontent.com/59683573/113704690-ad6afd00-9706-11eb-821a-2152f04b1e36.png)
+![14](https://user-images.githubusercontent.com/59683573/113704720-b9ef5580-9706-11eb-8aa0-977ba3ba98aa.png)
+
+[2] Hasil/Tampilan ketika dijalankan di browser, maka
+
+![15](https://user-images.githubusercontent.com/59683573/113704835-de4b3200-9706-11eb-83fd-44729d271b45.png)
+
 
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
 
