@@ -39,7 +39,7 @@ Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mata k
 
 10. Hasil/Tampilan ketika dijalankan dibrowser, maka perubahannya text tersebut menjadi berwarna dengan menambahkan property dan nilai berupa background untuk mengatur warna,       border, min-height, padding, text-align, color, display, margin dan text-decoration, dan link tersebut berubah menjadi berwarna yang menandakan bahwa tag link tersebut telah     diterapkan pada file css  
 
-    ![12](https://user-images.githubusercontent.com/59683573/113687121-362b6e00-96f2-11eb-86a5-6df00ac0be8d.png
+    ![12](https://user-images.githubusercontent.com/59683573/113687121-362b6e00-96f2-11eb-86a5-6df00ac0be8d.png)
 
    
 
