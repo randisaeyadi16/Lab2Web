@@ -77,13 +77,16 @@ Jawaban:
    adalah kode CSS ditulis terpisah dengan dokumen HTML berupa file Style Sheet (.css). Sedangkan
    Inline CSS adalah kode CSS ditulis sebagai artribut pada tag HTML.
    contoh internal :
-   ![Screenshot (191)](https://user-images.githubusercontent.com/59683573/113877112-9568ab80-97e2-11eb-917d-1cc4dcaa27f8.png)
+   ![Screenshot (197)](https://user-images.githubusercontent.com/59683573/113879696-fabd9c00-97e4-11eb-91eb-8503e88b27c8.png)
+
    
    contoh eksternal :
-   ![Screenshot (192)](https://user-images.githubusercontent.com/59683573/113877246-b92bf180-97e2-11eb-9ca6-720d3357def2.png)
+   ![Screenshot (198)](https://user-images.githubusercontent.com/59683573/113879818-1c1e8800-97e5-11eb-9958-f8196cf62805.png)
+
    
    contoh inline :
-   ![image](https://user-images.githubusercontent.com/59683573/113877347-d234a280-97e2-11eb-8283-5a7c5e5b9071.png)
+   ![Screenshot (202)](https://user-images.githubusercontent.com/59683573/113879529-ce098480-97e4-11eb-9efd-44aa765eeb30.png)
+
 
 
 
@@ -98,10 +101,10 @@ Jawaban:
    Untuk class dan id selector, akan berlaku pada elemen yang menggunakan class atau id tersebut.
    
    contoh class selector
-   ![Screenshot (194)](https://user-images.githubusercontent.com/59683573/113877852-496a3680-97e3-11eb-8784-951d4d786034.png)
+   ![Screenshot (200)](https://user-images.githubusercontent.com/59683573/113879611-e24d8180-97e4-11eb-946e-7ffd323eaacf.png)
+
    
    contoh id selector
-   ![Screenshot (195)](https://user-images.githubusercontent.com/59683573/113877901-5424cb80-97e3-11eb-9077-5b33156bf64a.png)
-
+   ![Screenshot (201)](https://user-images.githubusercontent.com/59683573/113879628-e8dbf900-97e4-11eb-9c65-1d92628a8c50.png)
 
    
