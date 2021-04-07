@@ -9,7 +9,7 @@ Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mata k
 
     ![2](https://user-images.githubusercontent.com/59683573/113685727-be107880-96f0-11eb-91ba-233245e3dff8.png)
 
-3. Mendeklarasikan CSS Internal] Ini adalah tampilan codingan jika ditambahkan deklarasi CSS internal pada bagian head dokumen dengan menambahkan property dan nilai dalam          elemenn body, header, h1 dan hi
+3. [Mendeklarasikan CSS Internal] Ini adalah tampilan codingan jika ditambahkan deklarasi CSS internal pada bagian head dokumen dengan menambahkan property dan nilai dalam          elemenn body, header, h1 dan hi
 
    ![3](https://user-images.githubusercontent.com/59683573/113685993-ffa12380-96f0-11eb-994a-413ba37c9e2e.png)
 
@@ -34,11 +34,11 @@ Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mata k
    ![8](https://user-images.githubusercontent.com/59683573/113686607-a259a200-96f1-11eb-83b1-164d77200b16.png)
 
 9. [Menambahkan CSS Selector] Ini adalah tampilan codingan jika ditambahkan CSS Selector menggunakan ID dan Class Selector pada file CSS eksternal
+
    ![9](https://user-images.githubusercontent.com/59683573/113686726-c5845180-96f1-11eb-8119-09b602f2970d.png)
 
 10.Hasil/Tampilan ketika dijalankan dibrowser, maka perubahannya text tersebut menjadi berwarna dengan menambahkan property dan nilai berupa background untuk mengatur warna,        border, min-height, padding, text-align, color, display, margin dan text-decoration, dan link tersebut berubah menjadi berwarna yang menandakan bahwa tag link tersebut telah    diterapkan pada file css  
-
-   ![12](https://user-images.githubusercontent.com/59683573/113687121-362b6e00-96f2-11eb-86a5-6df00ac0be8d.png
+    ![12](https://user-images.githubusercontent.com/59683573/113687121-362b6e00-96f2-11eb-86a5-6df00ac0be8d.png
 
    
 
@@ -101,11 +101,13 @@ Jawaban:
    disesuaikan dengan kebutuhannya. Elemen selector akan berlaku pada semua elemen tersebut.
    Untuk class dan id selector, akan berlaku pada elemen yang menggunakan class atau id tersebut.
    
-   contoh class selector
+   contoh class selector :
+   
    ![Screenshot (200)](https://user-images.githubusercontent.com/59683573/113879611-e24d8180-97e4-11eb-946e-7ffd323eaacf.png)
 
    
-   contoh id selector
+   contoh id selector :
+   
    ![Screenshot (201)](https://user-images.githubusercontent.com/59683573/113879628-e8dbf900-97e4-11eb-9c65-1d92628a8c50.png)
 
    
