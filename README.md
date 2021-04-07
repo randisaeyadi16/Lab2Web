@@ -55,7 +55,7 @@ Jawaban:
 
    ![14](https://user-images.githubusercontent.com/59683573/113704720-b9ef5580-9706-11eb-8aa0-977ba3ba98aa.png)
 
-[2] Hasil/Tampilan ketika dijalankan dibrowser, maka terlihat perubahannya dari yang sebelumnya, untuk heading 1 terlihat text tersebut berbayang dan berwarna biru, dan link         tersebut terlihat garis bawah pada text, heading 1 pada bagian elemen body text tersebut menjadi rata tengah, dan border menjadi lebih tebal
+[2] Hasil/Tampilan ketika dijalankan dibrowser, maka terlihat perubahannya dari yang sebelumnya nilai pada property color menjadi warna biru kehijauan
 
    ![15](https://user-images.githubusercontent.com/59683573/113704835-de4b3200-9706-11eb-83fd-44729d271b45.png)
 
