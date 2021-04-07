@@ -36,18 +36,12 @@ Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mata k
 9. [Menambahkan CSS Selector] Ini adalah tampilan codingan jika ditambahkan CSS Selector menggunakan ID dan Class Selector pada file CSS eksternal
    ![9](https://user-images.githubusercontent.com/59683573/113686726-c5845180-96f1-11eb-8119-09b602f2970d.png)
 
-10.Hasil/Tampilan ketika dijalankan dibrowser, maka perubahannya text tersebut menjadi berwarna dengan menambahkan property dan nilai berupa background untuk mengatur warna,        border, min-height, padding, text-align, color, display, margin dan text-decoration, dan link tersebut berubah menjadi berwarna yang menandakan bahwa tag link tersebut telah    diterapkan pada file css
+10.Hasil/Tampilan ketika dijalankan dibrowser, maka perubahannya text tersebut menjadi berwarna dengan menambahkan property dan nilai berupa background untuk mengatur warna,        border, min-height, padding, text-align, color, display, margin dan text-decoration, dan link tersebut berubah menjadi berwarna yang menandakan bahwa tag link tersebut telah    diterapkan pada file css  
 
-   ![10](https://user-images.githubusercontent.com/59683573/113686877-f06ea580-96f1-11eb-9e73-efebf7912eeb.png)
+   ![12](https://user-images.githubusercontent.com/59683573/113687121-362b6e00-96f2-11eb-86a5-6df00ac0be8d.png
 
-11. [Menambahkan CSS Selector]
-
-    ![11](https://user-images.githubusercontent.com/59683573/113686939-00868500-96f2-11eb-964b-4b080ff0ca36.png)
-
-12.  Hasil/Tampilan ketika dijalankan dibrowser, maka;
-
-   ![12](https://user-images.githubusercontent.com/59683573/113687121-362b6e00-96f2-11eb-86a5-6df00ac0be8d.png)
    
+
    
 
 Pertanyaan dan Tugas
