@@ -77,11 +77,12 @@ Jawaban:
    adalah kode CSS ditulis terpisah dengan dokumen HTML berupa file Style Sheet (.css). Sedangkan
    Inline CSS adalah kode CSS ditulis sebagai artribut pada tag HTML.
    contoh internal :
-   ![Screenshot (197)](https://user-images.githubusercontent.com/59683573/113879696-fabd9c00-97e4-11eb-91eb-8503e88b27c8.png)
+    ![Screenshot (196)](https://user-images.githubusercontent.com/59683573/113880061-57b95200-97e5-11eb-8d90-0455d30baa61.png)
+
 
    
    contoh eksternal :
-   ![Screenshot (198)](https://user-images.githubusercontent.com/59683573/113879818-1c1e8800-97e5-11eb-9958-f8196cf62805.png)
+   ![Screenshot (197)](https://user-images.githubusercontent.com/59683573/113879696-fabd9c00-97e4-11eb-91eb-8503e88b27c8.png)
 
    
    contoh inline :
