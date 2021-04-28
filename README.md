@@ -70,12 +70,15 @@ Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mataku
    Inline CSS adalah kode CSS ditulis sebagai artribut pada tag HTML.
    
    >Contoh Internal :
+   
    ![Screenshot (196)](https://user-images.githubusercontent.com/59683573/113880061-57b95200-97e5-11eb-8d90-0455d30baa61.png)
 
    >Contoh Eksternal :
+   
    ![Screenshot (197)](https://user-images.githubusercontent.com/59683573/113879696-fabd9c00-97e4-11eb-91eb-8503e88b27c8.png)
    
    >Contoh Inline :
+   
    ![Screenshot (202)](https://user-images.githubusercontent.com/59683573/113879529-ce098480-97e4-11eb-9efd-44aa765eeb30.png)
 
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
@@ -84,7 +87,9 @@ Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mataku
    >Jawaban : Elemen Selector dideklarasikan berdasarkan tag HTML. CSS Selector dapat berupa elemen HTML, selector class atau selector id. Penggunaan CSS selector disesuaikan dengan kebutuhannya. Elemen selector akan berlaku pada semua elemen tersebut. Untuk class dan id selector, akan berlaku pada elemen yang menggunakan class atau id tersebut.
    
    >Contoh Class Selector :
+   
    ![Screenshot (200)](https://user-images.githubusercontent.com/59683573/113879611-e24d8180-97e4-11eb-946e-7ffd323eaacf.png)
    
    >Contoh ID Selector :
+   
    ![Screenshot (201)](https://user-images.githubusercontent.com/59683573/113879628-e8dbf900-97e4-11eb-9c65-1d92628a8c50.png)
