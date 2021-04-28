@@ -1,8 +1,13 @@
 # Lab2Web
-Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mata kuliah Pemrograman Web
+Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas matakuliah Pemrograman Web.
+- NIM   : 311910769
+- Nama Mahasiswa  : Randi Saepudin Kusmayadi
+- Kelas : TI.19-A3
+- Matakuliah  : Pemrograman Web
+- Dosen Pengampu  : Agung Nugroho, S.Kom., M.Kom.
+- Prodi/Semester  : Teknik Informatika / IV (Empat)
 
-[PRAKTIKUM 2 - PEMROGRAMAN WEB] RANDI SAEPUDIN KUSMAYADI - 311910769 - TI.19-A3
-
+# Laporan Praktikum
 1. [MEMBUAT DOKUMEN] Ini adalah tampilan codingan awal untuk membuat dokumen HTML dengan menggunakan style css
 
     ![1](https://user-images.githubusercontent.com/59683573/113685444-77228300-96f0-11eb-84c4-22922495f12b.png)
@@ -43,60 +48,43 @@ Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mata k
 
     ![12](https://user-images.githubusercontent.com/59683573/113687121-362b6e00-96f2-11eb-86a5-6df00ac0be8d.png)
 
-Pertanyaan dan Tugas
+# Pertanyaan dan Tugas
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
-
-Jawaban:
-
-[1] Ini adalah tampilan codingan jika ditambahkan deklarasi CSS dengan mengubah/membuat property dan nilai pada kode css
-
+   >Jawaban :
+   
+   [1] Ini adalah tampilan codingan jika ditambahkan deklarasi CSS dengan mengubah/membuat property dan nilai pada kode CSS.
    ![13](https://user-images.githubusercontent.com/59683573/113704690-ad6afd00-9706-11eb-821a-2152f04b1e36.png)
 
    ![14](https://user-images.githubusercontent.com/59683573/113704720-b9ef5580-9706-11eb-8aa0-977ba3ba98aa.png)
-
-[2] Hasil/Tampilan ketika dijalankan dibrowser, maka terlihat perubahannya dari yang sebelumnya nilai pada property color menjadi warna biru kehijauan
-
+   
+   [2] Hasil/Tampilan ketika dijalankan dibrowser, maka terlihat perubahannya dari yang sebelumnya nilai pada property color menjadi warna biru kehijauan.
    ![15](https://user-images.githubusercontent.com/59683573/113704835-de4b3200-9706-11eb-83fd-44729d271b45.png)
 
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
-
-   Jawaban:
-
-   perbedaannya yaitu elemen h1 untuk mengubah nilai text pada dokumen html yg menggunakan tag h1 pada elemen-elemen dan intro h1 untuk mengubah nilai text yg ada pada selector    h1 di dokumen html agar property terlihat jauh lebih menarik difile css
+   >Jawaban : Perbedaannya yaitu elemen h1 untuk mengubah nilai text pada dokumen html yg menggunakan tag h1 pada elemen-elemen dan intro h1 untuk mengubah nilai text yg ada pada selector h1 di dokumen html agar property terlihat jauh lebih menarik difile CSS.
 
 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan    penjelasan dan contohnya!
-
-   Jawaban:
-   
-   Penulisan CSS dapat dilakukan dengan tiga cara, yaitu penulisan secara internal, external dan inline.
+   >Jawaban: Penulisan CSS dapat dilakukan dengan tiga cara, yaitu penulisan secara internal, external dan inline.
    Internal adalah kode CSS ditulis pada dokumen HTML pada bagian head dokumen. External CSS
    adalah kode CSS ditulis terpisah dengan dokumen HTML berupa file Style Sheet (.css). Sedangkan
    Inline CSS adalah kode CSS ditulis sebagai artribut pada tag HTML.
-   contoh internal :
+   
+   >Contoh Internal :
    ![Screenshot (196)](https://user-images.githubusercontent.com/59683573/113880061-57b95200-97e5-11eb-8d90-0455d30baa61.png)
 
-   Contoh Eksternal :
+   >Contoh Eksternal :
    ![Screenshot (197)](https://user-images.githubusercontent.com/59683573/113879696-fabd9c00-97e4-11eb-91eb-8503e88b27c8.png)
    
-   Contoh Inline :
+   >Contoh Inline :
    ![Screenshot (202)](https://user-images.githubusercontent.com/59683573/113879529-ce098480-97e4-11eb-9efd-44aa765eeb30.png)
 
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
    terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
    Berikan penjelasan dan contohnya!
-
-   Jawaban:
-   Elemen Selector dideklarasikan berdasarkan tag HTML. 
-   CSS Selector dapat berupa elemen HTML, selector class atau selector id. Penggunaan CSS selector
-   disesuaikan dengan kebutuhannya. Elemen selector akan berlaku pada semua elemen tersebut.
-   Untuk class dan id selector, akan berlaku pada elemen yang menggunakan class atau id tersebut.
+   >Jawaban : Elemen Selector dideklarasikan berdasarkan tag HTML. CSS Selector dapat berupa elemen HTML, selector class atau selector id. Penggunaan CSS selector disesuaikan dengan kebutuhannya. Elemen selector akan berlaku pada semua elemen tersebut. Untuk class dan id selector, akan berlaku pada elemen yang menggunakan class atau id tersebut.
    
-   Contoh Class Selector :
-   
+   >Contoh Class Selector :
    ![Screenshot (200)](https://user-images.githubusercontent.com/59683573/113879611-e24d8180-97e4-11eb-946e-7ffd323eaacf.png)
    
-   Contoh ID Selector :
-   
+   >Contoh ID Selector :
    ![Screenshot (201)](https://user-images.githubusercontent.com/59683573/113879628-e8dbf900-97e4-11eb-9c65-1d92628a8c50.png)
-
- [SELESAI]
